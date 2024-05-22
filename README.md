@@ -1,6 +1,6 @@
 # Hi there, I'm Prateek Narvariya 👋
 
-![Header](https://via.placeholder.com/1200x300.png?text=Welcome+to+my+GitHub+Profile)
+![Header]([https://via.placeholder.com/1200x300.png?text=Welcome+to+my+GitHub+Profile](https://media1.tenor.com/m/WkgpyPpxpDUAAAAC/work-internet.gif))
 
 ## About Me
 I'm a dynamic Junior Java Developer from Indore, India with 1 year of experience specializing in the Spring Boot framework. I'm proficient in Java programming and adept at crafting efficient software solutions. Skilled in debugging, problem-solving, and Agile methodologies, I'm a strong communicator with a keen eye for detail, committed to continuous learning. I'm eager to leverage my expertise in Spring Boot development to contribute to innovative projects within a collaborative team environment.
