@@ -44,12 +44,23 @@ March 2023 - July 2023
 ## Projects
 
 ### PC Parts E-commerce Marketplace
-![PC Parts E-commerce Marketplace](https://via.placeholder.com/400x200.png?text=Project+Image)
+![PC Parts E-commerce Marketplace]
+
+<p align="center">
+  <img src="https://media1.tenor.com/m/f7859BVKCd8AAAAC/game-time-gamer.gif" alt="Header" width="600"/>
+</p>
+
+
 - An e-commerce platform for PC parts, including user registration, product catalog, and shopping cart functionality.
 - **Technologies Used**: Java, Spring Boot, HTML/CSS, JavaScript, MySQL
 
 ### Chat Application
-![Chat Application](https://via.placeholder.com/400x200.png?text=Project+Image)
+![Chat Application]
+<p align="center">
+  <img src="https://media1.tenor.com/m/tFYG8IuHsJkAAAAC/gifhack.gif" alt="Header" width="200"/>
+</p>
+
+
 - A real-time chat application using Java, Spring Boot, WebSocket for communication, and MongoDB for storing chat history.
 - **Technologies Used**: Java, Spring Boot, WebSocket, MongoDB, HTML/CSS, JavaScript, Bootstrap
 
