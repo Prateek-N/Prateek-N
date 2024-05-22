@@ -6,7 +6,11 @@
 
 
 
-## About Me
+## About Me 
+<img src="https://emojis.slackmojis.com/emojis/images/1712916265/92029/pedro.gif?1712916265" alt="Header" />
+
+
+
 I'm a dynamic Junior Java Developer from Indore, India with 1 year of experience specializing in the Spring Boot framework. I'm proficient in Java programming and adept at crafting efficient software solutions. Skilled in debugging, problem-solving, and Agile methodologies, I'm a strong communicator with a keen eye for detail, committed to continuous learning. I'm eager to leverage my expertise in Spring Boot development to contribute to innovative projects within a collaborative team environment.
 
 - 🔭 I’m currently working on personal projects 
