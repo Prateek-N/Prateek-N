@@ -41,10 +41,6 @@
 <a href="https://www.npmjs.com/package/@prateek_ai/agents-maker"><img src="https://img.shields.io/npm/v/@prateek_ai/agents-maker?style=for-the-badge&logo=npm&logoColor=white&label=version&color=CB3837" alt="npm version" /></a>
 <a href="https://github.com/Prateek-N/Multi-Agent-Stack/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-8B5CF6?style=for-the-badge" alt="MIT License" /></a>
 
-<a href="https://github.com/Prateek-N/Multi-Agent-Stack">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Prateek-N&repo=Multi-Agent-Stack&theme=tokyonight&hide_border=true&border_radius=10" alt="Multi-Agent-Stack repository card" />
-</a>
-
 </div>
 
 An open-source framework for dropping a **team of specialised AI agents** into any project. It reads the task,
@@ -158,9 +154,6 @@ state and handoffs rather than clever prompt tricks.
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Prateek-N&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&include_all_commits=true&count_private=true&icon_color=8B5CF6&title_color=6366F1" height="180" alt="Prateek's GitHub stats" />
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Prateek-N&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=8&title_color=6366F1" height="180" alt="Most used languages" />
 
 <img src="https://streak-stats.demolab.com?user=Prateek-N&theme=tokyonight&hide_border=true&border_radius=10&ring=8B5CF6&fire=6366F1&currStreakLabel=8B5CF6" height="180" alt="GitHub streak" />
 
